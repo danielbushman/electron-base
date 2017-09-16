@@ -6,7 +6,7 @@
 ## Dev
 
 ```
-$ npm install
+$ yarn install
 ```
 
 ### Run
