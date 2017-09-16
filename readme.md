@@ -26,4 +26,4 @@ Builds the app for OS X, Linux, and Windows, using [electron-packager](https://g
 
 ## License
 
-MIT © [Daniel Bushman](http://uxdev.io)
+MIT © [Daniel Bushman](http://danielbushman.com)

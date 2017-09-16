@@ -1,15 +1,14 @@
 {
   "name": "electron-base",
   "productName": "ElectronBase",
-  "version": "0.0.0",
-  "description": "My terrific app",
+  "version": "0.1.0-dev",
+  "description": "Bare-bones Electron app",
   "license": "MIT",
   "main": "index.js",
-  "repository": "ux-dev/electron-base",
+  "repository": "danielbushman/electron-base",
   "author": {
     "name": "Daniel Bushman",
-    "email": "daniel@uxdev.io",
-    "url": "uxdev.io"
+    "url": "http://danielbushman.com"
   },
   "engines": {
     "node": ">=0.10.0"
